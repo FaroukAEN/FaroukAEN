@@ -5,9 +5,6 @@
 - 📫 How to reach me through my email farouk.m.abouelnasr@gmail.com or through LinkedIn https://www.linkedin.com/in/faroukabouelnasr/
 
 
-- 😄 Pronouns: Male
-- ⚡ Fun fact: ...
-
 <!---
 FaroukAEN/FaroukAEN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
