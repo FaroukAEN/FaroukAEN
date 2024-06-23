@@ -2,7 +2,9 @@
 - 👀 I’m interested in Data and Spearfishing
 - 🌱 I’m currently learning Project Management
 - 💞️ I’m looking to collaborate on Data Analysis projects
-- 📫 How to reach me through my email farouk.m.abouelnasr@gmail.com
+- 📫 How to reach me through my email farouk.m.abouelnasr@gmail.com or through LinkedIn https://www.linkedin.com/in/faroukabouelnasr/
+
+
 - 😄 Pronouns: Male
 - ⚡ Fun fact: ...
 
